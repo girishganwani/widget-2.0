@@ -1,0 +1,20 @@
+{
+  "currarticles": [
+    {
+      "id": "1",
+      "title": "currArt1",
+      "websiteBaseURL": "website1",
+      "articleURL" : "artUrl1",
+      "curatorNote" : "curNote1",
+      "bookShelfName" : "bookShelfName1"
+    },
+    {
+      "id": "2",
+      "title": "currArt2",
+      "websiteBaseURL": "website2",
+      "articleURL" : "artUrl2",
+      "curatorNote" : "curNote2",
+      "bookShelfName" : "bookShelfName2"
+    }
+  ]
+}
