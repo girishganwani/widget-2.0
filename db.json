@@ -1,20 +1,28 @@
 {
-  "currarticles": [
+  "articles": [
     {
       "id": "1",
       "title": "currArt1",
       "websiteBaseURL": "website1",
-      "articleURL" : "artUrl1",
-      "curatorNote" : "curNote1",
-      "bookShelfName" : "bookShelfName1"
+      "articleURL": "artUrl1",
+      "curatorNote": "curNote1",
+      "bookShelfName": "bookShelfName1"
     },
     {
       "id": "2",
       "title": "currArt2",
       "websiteBaseURL": "website2",
-      "articleURL" : "artUrl2",
-      "curatorNote" : "curNote2",
-      "bookShelfName" : "bookShelfName2"
+      "articleURL": "artUrl2",
+      "curatorNote": "curNote2",
+      "bookShelfName": "bookShelfName2"
+    },
+    {
+      "id": "53b1",
+      "articleURL": "http://localhost:5173/",
+      "title": "",
+      "websiteBaseURL": "",
+      "curatorNote": "",
+      "bookshelfName": ""
     }
   ]
 }
