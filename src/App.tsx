@@ -1,11 +1,11 @@
 import './App.css'
 import FullWidget from './components/FullWidget';
-import useCurrentArticle from './hooks/useCurrentArticle.ts';
+import useArticle from './hooks/useArticle.ts';
 
 
 const App = () => {
 
-  useCurrentArticle()
+  useArticle();
 
   return (
   <div className="font-Raleway">

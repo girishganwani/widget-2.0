@@ -1,5 +1,5 @@
 {
-  "currarticles": [
+  "articles": [
     {
       "id": "1",
       "title": "currArt1",
@@ -17,11 +17,7 @@
       "bookShelfName": "bookShelfName2"
     },
     {
-      "id": "201d",
-      "articleURL": "http://localhost:5173/"
-    },
-    {
-      "id": "a4f1",
+      "id": "53b1",
       "articleURL": "http://localhost:5173/",
       "title": "",
       "websiteBaseURL": "",

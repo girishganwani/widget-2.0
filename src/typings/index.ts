@@ -1,4 +1,4 @@
-export type CurrentArticleType = {
+export type ArticleType = {
 id?: string,
 title: string,
 websiteBaseURL: string,
